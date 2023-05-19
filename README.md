@@ -123,4 +123,4 @@ The script will create the cards on the specified Trello board and associate the
 
 ---
 
-That's it! You can now use these scripts to automate the creation of a Trello board, lists, and cards. Ensure that the scripts, `.env`, `lists.json`, and `cards.json`
+That's it! You can now use these scripts to automate the creation of a Trello board, lists, and cards. Ensure that the scripts, `.env`, `lists.json`, and `cards.json` are in the same directory and follow the instructions provided above. Please note that the scripts rely on proper configuration and valid API keys and tokens to interact with the Trello API successfully.
