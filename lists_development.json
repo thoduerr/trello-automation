@@ -1,0 +1,11 @@
+{
+    "lists": [
+        "Architecture",
+        "Done",
+        "Awaiting Acceptance",
+        "Awaiting Deployment",
+        "In Progress",
+        "Backlog",
+        "Icebox"
+    ]
+}

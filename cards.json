@@ -1,0 +1,19 @@
+{
+    "cards": [
+      {
+        "name": "Card 1",
+        "description": "Description for Card 1",
+        "list": "Backlog"
+      },
+      {
+        "name": "Card 2",
+        "description": "Description for Card 2",
+        "list": "In Progress"
+      },
+      {
+        "name": "Card 3",
+        "description": "Description for Card 3",
+        "list": "Done"
+      }
+    ]
+  }
